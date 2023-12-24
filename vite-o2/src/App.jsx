@@ -10,7 +10,7 @@ function App() {
     <>
       <h1 className='bg-green-400 text-black'>hai i am learnning with react</h1>
       <Card username="gulshan" btnText="click me"/>
-      <Card username="Every one" btnText="fellow me"/>
+      <Card username="Every one" btnText="fellow me"j/>
     </>
   )
 }
